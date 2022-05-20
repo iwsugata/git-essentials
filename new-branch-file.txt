@@ -1,2 +1,2 @@
-New branch file..
-already exists..
+New branch file shows up in master and new-branch
+@@@
