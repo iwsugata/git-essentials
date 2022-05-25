@@ -1,4 +1,6 @@
-git-essentials
+# Git-essentials/Git for everybody
 
-### Some new stuff written here
-Dolor doloran way ne ben ngerti kabeh
+This is a course to teach you how to use everyday git.
+
+Course created by Kalob Taulien.
+
