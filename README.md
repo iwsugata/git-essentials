@@ -1,6 +1,6 @@
-# Git-essentials/Git for everybody
+# Git-essentials/Git for everybody 2nd update
 
-This is a course to teach you how to use everyday git.
+This is a course to teach you how to use everyday git 2nd update.
 
-Course created by Kalob Taulien.
+Course created by Kalob Taulien ***.
 
